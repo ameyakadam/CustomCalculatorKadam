@@ -1,0 +1,26 @@
+﻿body{
+    background-color:powderblue;
+}
+h1 {
+    text-align: center;
+    background-color: floralwhite;
+}
+
+#image {
+    width:auto;
+    position:inherit;
+    
+}
+
+#answer {
+    width: auto;
+    position: relative;
+    background-color:#bebebe;
+    color:white;
+    height:20px;
+}
+#values {
+    width: auto;
+    position: relative;
+    
+}
